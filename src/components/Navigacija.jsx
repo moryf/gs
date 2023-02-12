@@ -18,15 +18,13 @@ function Navigacija() {
             <div className='sakriveniLinkovi'>
             <Link to='/'>Home</Link>
             <Link to='/proizvodi'>Proizvodi</Link>
-            <Link to='/about'>O nama</Link>
-            <Link to='/contact'>Kontakt</Link>  
+            <Link to='/kontakt'>Kontakt</Link>  
             </div>
         </div>
         <div className='desnaStrana'>
             <Link to='/'>Home</Link>
             <Link to='/proizvodi'>Proizvodi</Link>
-            <Link to='/about'>O nama</Link>
-            <Link to='/contact'>Kontakt</Link>
+            <Link to='/kontakt'>Kontakt</Link>
             <button onClick={otvoriNavigaciju}>
                 <DensitySmallIcon/>
             </button>

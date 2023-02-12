@@ -9,7 +9,7 @@ import '../style/home.css'
 function Home() {
   return (
     <div className='home' style={{ backgroundImage:'url('+pozadina+')'}}>
-      <div className='headerContainer' >
+      <div className='naslovna' >
         <h1>
           Good Spirit
         </h1>
