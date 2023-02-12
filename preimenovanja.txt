@@ -1,0 +1,5 @@
+Navbar - Navigacija
+navbar - navigacija
+leftSide -levaStrana
+rightSide - desnaStrana
+hiddenLinks - sakriveniLinkovi
