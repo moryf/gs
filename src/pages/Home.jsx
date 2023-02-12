@@ -16,7 +16,7 @@ function Home() {
         <p>
           Zelene korpe za zelenu budućnost
         </p>
-        <Link>
+        <Link to ='/proizvodi'>
         <button>
           Poruči!
         </button>
