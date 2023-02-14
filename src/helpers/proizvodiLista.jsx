@@ -4,7 +4,7 @@ import SlikaKorpa2 from '../assets/slikaKorpa2.png'
 
 export const ProizvodiLista=[
     {
-        naziv:"Zelena Korpa 1",
+        naziv:"Promena proizvoda",
         slika: SlikaKorpa1,
         cena: 540,
     },
